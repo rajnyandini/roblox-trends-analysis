@@ -48,5 +48,5 @@ A data-driven exploration of Roblox history, culture, trends, and game evolution
 
 - \[ ] Trend analysis
 
-\- \[ ] Interactive dashboard
+- \[ ] Interactive dashboard
 
