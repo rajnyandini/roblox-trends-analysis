@@ -1,4 +1,4 @@
-\# Roblox Archaeology
+# Roblox Archaeology
 
 
 
@@ -6,47 +6,47 @@ A data-driven exploration of Roblox history, culture, trends, and game evolution
 
 
 
-\## Questions
+## Questions
 
 
 
-\- How have Roblox genres evolved?
+- How have Roblox genres evolved?
 
-\- When did major trends emerge?
+- When did major trends emerge?
 
-\- How did avatar culture change?
+- How did avatar culture change?
 
-\- What words dominated Roblox game titles?
+- What words dominated Roblox game titles?
 
-\- Can Roblox trends be predicted?
-
-
-
-\## Technologies
+- Can Roblox trends be predicted?
 
 
 
-\- Python
-
-\- Pandas
-
-\- Matplotlib
-
-\- Plotly
+## Technologies
 
 
 
-\## Current Progress
+- Python
+
+- Pandas
+
+- Matplotlib
+
+- Plotly
 
 
 
-\- \[x] Project setup
+## Current Progress
 
-\- \[x] Growth dataset
 
-\- \[ ] Genre dataset
 
-\- \[ ] Trend analysis
+- \[x] Project setup
+
+- \[x] Growth dataset
+
+- \[ ] Genre dataset
+
+- \[ ] Trend analysis
 
 \- \[ ] Interactive dashboard
 
